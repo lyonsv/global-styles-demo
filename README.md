@@ -7,6 +7,9 @@ particularly in the context of working with legacy stylesheets. It showcases how
 CSS Modules can help prevent style conflicts and improve the maintainability of
 your styles. 
 
+<img width="330" alt="image" src="https://github.com/user-attachments/assets/2842f138-b85c-48ab-b6a4-b701b95648d5">
+
+
 ## Live Demo
 
 Check out the live demo:
