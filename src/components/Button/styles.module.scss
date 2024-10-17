@@ -1,0 +1,26 @@
+.buttonWrapper {
+  display: inline-block;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+
+  .buttonTitle {
+    font-size: 16px;
+    margin-bottom: 5px;
+    color: #333;
+  }
+
+  .button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+
+    &:hover {
+      background-color: #0056b3;
+    }
+  }
+}
